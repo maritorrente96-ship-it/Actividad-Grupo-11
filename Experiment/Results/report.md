@@ -11,7 +11,7 @@ Se compara la expresión génica entre plantas **WT** y **Mutantes**.
 
 ## 3. Diseño del experimento
 
-El objetivo es la identificación de genes diferencialmente expresados en WT Y Mutante del organismo *Arabidopsis thaliana*, bajo determinadas condiciones.
+El objetivo es la identificación de genes diferencialmente expresados en WT y Mutante del organismo *Arabidopsis thaliana*, bajo determinadas condiciones.
 
 ## 4. Gráficas
 Se ha realizado un **Heatmap** vacío (como ejemplo) cuya ruta de acceso es ![heatmap](plots/heatmap.png)
@@ -20,6 +20,6 @@ Se ha realizado un **Heatmap** vacío (como ejemplo) cuya ruta de acceso es ![he
 Las diferencias de expresión de los genes en *Arabidopsis thaliana* WT y Mutante.
 
 ## 6. Discusión de los resultados
-Anális completo de los resultados de expresión obtenidos
+Análisis completo de los resultados de expresión obtenidos
 
 
