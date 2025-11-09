@@ -1,1 +1,0 @@
-#Aquí deberiamos tener el código para analizar la secuencia
