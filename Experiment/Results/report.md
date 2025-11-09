@@ -18,6 +18,7 @@ Se ha realizado un **Heatmap** vacío (como ejemplo) cuya ruta de acceso es ![he
 
 ## 5. Resultados
 Las diferencias de expresión de los genes en *Arabidopsis thaliana* WT y Mutante.
+Los resultados pueden ser consultados en [`DE_results.tsv`](DE_results.tsv)
 
 ## 6. Discusión de los resultados
 Análisis completo de los resultados de expresión obtenidos
