@@ -56,7 +56,6 @@ La carpeta **`experiments/Results/`** contiene los resultados del experimento de
 
 Los resultados han sido obtenidos mediante la utilización de scripts.
 
-=======
 ### Carpeta Scripts
 Este sript automatiza el análisis de la expresión diferencial de RNA-seq en *Arabidopsis thaliana*,
 comparando muestras control y mutantes fip1-2.
