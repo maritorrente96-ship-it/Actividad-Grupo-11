@@ -31,3 +31,14 @@ Esta carpeta contiene los datos crudos de secuenciación obtenidos mediante RNA-
 - 2 réplicas biológicas de la muestra mutante para FIP1.
 
 Estos archivos se utilizan como punto de partida para los posteriores análisis (control de calidad, preprocesamiento, mapeo, análisis de expresión diferencial, etc).
+
+### Carpeta Scripts
+Este sript automatiza el análisis de la expresión diferencial de RNA-seq en *Arabidopsis thaliana*,
+comparando muestras control y mutantes fip1-2.
+Librerias de R necesarias para su uso:
+- Tidyverse: dplyr, tidyr y readr
+- ggplot
+- corrplot
+- circlize
+- grid
+- ComplexHeatmap
