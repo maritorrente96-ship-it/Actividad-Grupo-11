@@ -54,5 +54,5 @@ La carpeta **`experiments/Results/`** contiene los resultados del experimento de
 - `DE_results.tsv`
 - **`plots/`** : en el que se ha guardado un **`heatmap.png`**.
 
-Los resultados han sido obtenidos mediante la utilización descripts.
+Los resultados han sido obtenidos mediante la utilización de scripts.
 
