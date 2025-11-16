@@ -37,6 +37,9 @@ experimento.
 ### Carpeta Genome 
 Para la realización del análisis que hemos elegido se usa la planta *Arabidopsis Thaliana* como organismo modelo. Por ello, en esta carpeta se encontraría el fichero FASTA con el genoma completo de dicha planta. Dicho fichero FASTA con el genoma nos lo podemos descargar de la base de datos plants.ensembl.org
 
+### Carpeta Annotation
+A continuación, dentro del directorio **experiment/Annotation**, se encontraría el fichero **Arabidopsis_thaliana.TAIR10.62.gff3.gz**, que podemos descargar de la base de datos de Ensembl, correspondiente a las anotaciones de genes, transcritos y exones respecto al genoma de referencia de *Arabidopsis Thaliana*. En nuestro caso, hemos añadido el fichero Markdown **Anotaciones_genoma_referencia.md** explicativo.
+
 ### Carpeta Samples
 Esta carpeta contiene los datos crudos de secuenciación obtenidos mediante RNA-Seq. Incluye 4 archivos FASTQ, correspondientes a:
 - 2 réplicas biológicas de la condición control.
