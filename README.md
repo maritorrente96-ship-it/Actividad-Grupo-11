@@ -1,3 +1,15 @@
+# Integrantes del Grupo-11
+
+- **María Duria Roldán Díaz**
+- **Marta Sanz Fernández**
+- **María del Carmen Torrente Villar**
+- **Nadia Ashour Fernández**
+- **Nerea Muñoz Unanue**
+
+# Introducción de la Actividad Grupal
+
+El objetivo de la presente actividad es familiarizarse con el manejo de un repositorio de **GibHub** ( como se estructura, creación de carpetas, solicitudes de Pull requests, creación de ramaas, README.md y forma de escribir en este tipo de documentos, entre otras ) en colaboración con los miembros del grupo.
+
 # Actividad-Grupo-11
 ## Análisis de expresión de RNA-seq
 Para la realización de la actividad nuestro grupo ha decidido simular un análisis de expresión 
@@ -31,3 +43,16 @@ Esta carpeta contiene los datos crudos de secuenciación obtenidos mediante RNA-
 - 2 réplicas biológicas de la muestra mutante para FIP1.
 
 Estos archivos se utilizan como punto de partida para los posteriores análisis (control de calidad, preprocesamiento, mapeo, análisis de expresión diferencial, etc).
+
+### Carpeta Results
+
+La carpeta **`experiments/Results/`** contiene los resultados del experimento del análisis de expresión de RNA-seq. La carpeta incluye:
+
+- **`report.md`** : con un informe de los resultados obtenidos.
+- `counts_matrix.csv`  
+- `normalized_counts.csv`  
+- `DE_results.tsv`
+- **`plots/`** : en el que se ha guardado un **`heatmap.png`**.
+
+Los resultados han sido obtenidos mediante la utilización descripts.
+
