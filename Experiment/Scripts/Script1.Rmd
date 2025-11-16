@@ -1,0 +1,11 @@
+---
+title: Estudio factor de poliadenilación FIP1 en el desarrollo de plantas y las respuestas
+  de las raíces al estrés abiótico
+
+date: "2025-11-09"
+---
+
+```{r código para el estudio}
+#Aquí nos encontramos con el código para analizar las variables recogidas en el estudio
+```
+
