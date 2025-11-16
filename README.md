@@ -8,7 +8,7 @@
 
 # Introducción de la Actividad Grupal
 
-El objetivo de la presente actividad es familiarizarse con el manejo de un repositorio de **GibHub** ( como se estructura, creación de carpetas, solicitudes de Pull requests, creación de ramaas, README.md y forma de escribir en este tipo de documentos, entre otras ) en colaboración con los miembros del grupo.
+El objetivo de la presente actividad es familiarizarse con el manejo de un repositorio de **GibHub** ( como se estructura, creación de carpetas, solicitudes de Pull requests, creación de ramas, README.md y forma de escribir en este tipo de documentos, entre otras ) en colaboración con los miembros del grupo.
 
 # Actividad-Grupo-11
 ## Análisis de expresión de RNA-seq
